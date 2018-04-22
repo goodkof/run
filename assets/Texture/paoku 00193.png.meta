@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5a32c55a-41b8-4efa-b200-3b4f0e62b4f5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "paoku 00193": {
+      "ver": "1.0.3",
+      "uuid": "0fc4d132-4a30-42c3-bc63-aeebea1ab4a5",
+      "rawTextureUuid": "5a32c55a-41b8-4efa-b200-3b4f0e62b4f5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": 1.5,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 117,
+      "height": 102,
+      "rawWidth": 123,
+      "rawHeight": 105,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
